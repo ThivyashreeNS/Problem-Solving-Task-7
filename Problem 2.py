@@ -1,4 +1,4 @@
-""" Problem 1: Write a python function to read from a text file.
+""" Problem 2: Write a python function to read from a text file.
                The function will take the name of the text file and display the content of the file."""
  
 # Defined a function with file_name as parameter
